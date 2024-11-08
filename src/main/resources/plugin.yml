@@ -1,0 +1,4 @@
+name: SamplePlugin
+version: 1.0-SNAPSHOT
+main: com.kashitcp.nukkit.PluginNukkit
+api: [1.0.0]
